@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-This is my first repo.
-Author : Krutimaya Pradhan
+This is my first repo.</br>
+Author : Krutimaya Pradhan</br>
 Thanks
 
 <!--
