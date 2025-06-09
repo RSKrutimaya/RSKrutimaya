@@ -2,7 +2,7 @@
 
 This is my first repo.</br>
 Author : Krutimaya Pradhan</br>
-Thanks
+Thanks<br>
 Krutimaya
 
 <!--
